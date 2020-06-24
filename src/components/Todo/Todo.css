@@ -1,0 +1,11 @@
+.completed{
+    text-decoration: line-through;
+}
+
+.delete{
+    float:right;
+}
+list-group-item{
+    background-color: aqua;
+    cursor: pointer;
+}
